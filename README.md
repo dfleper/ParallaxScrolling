@@ -1,6 +1,7 @@
 # ParallaxScrolling 🌄🎞⛺
-## 💻 [Parallax Scrolling WebSite (Click Here)](https://resilient-jelly-c0522a.netlify.app/#)
 
+### 💻 [Parallax Scrolling WebSite (Click Here)](https://resilient-jelly-c0522a.netlify.app/#)
+-----
 ![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/ParallaxScrolling?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/ParallaxScrolling?color=blue&label=last-commit&logo=github&logoColor=white)
 
